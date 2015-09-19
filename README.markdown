@@ -1,5 +1,7 @@
 # Forked by Nick Taylor
 
+This Git project was originally forked from OpenVBX. This forked version is being renamed to SpaghettiVBX
+
 # Requirements
 
  * Web Server
